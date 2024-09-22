@@ -6,7 +6,6 @@ class Solution:
                 return False
         return True
 
-
 test_cases = int(input())
 for i in range(test_cases):
     arr_len = int(input())

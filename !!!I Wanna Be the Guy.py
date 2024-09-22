@@ -9,6 +9,7 @@ total_pass = set(x_pass + y_pass)
 #     print("I become the guy.")
 # else :
 #     print("Oh, my keyboard!")
+
 # wrong test 6
 # if game_level in total_pass:
 #     print("I become the guy.")
